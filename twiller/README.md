@@ -154,18 +154,12 @@ Start frontend: npm start inside /twiller
 
 Open http://localhost:3000 to view the app.
 
-📷 Screenshots (optional)
-Add some screenshots of your UI here to make the repo visually appealing.
 
 🧑‍💻 Author
 Omkar Mhamunkar
 Full Stack Developer | MERN | Generative AI Enthusiast
 
 
-🪪 License
-This project is open-source and available under the MIT License.
-
----
 
 
 
